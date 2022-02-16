@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @kalaimscse1
+- 👋 Hi, I’m @kalai
 - 👀 I’m interested in AI
 - 🌱 I’m currently learning AI Machine learning
 - 💞️ I’m looking to collaborate on ...
